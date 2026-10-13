@@ -17,7 +17,7 @@
             "Plasma/Applet"
         ],
         "Version": "2.3",
-        "Website": "https://github.com/sakibreza279/org.kde.plasma.knomeworkspaces"
+        "Website": "https://github.com/sakibreza279/knome-workspaces-switcher"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-Provides": [
