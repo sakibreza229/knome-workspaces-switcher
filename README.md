@@ -1,5 +1,8 @@
 # Knome Workspace Switcher — GNOME-style Virtual Desktop Switcher for Plasma 6
 
+> [!WARNING]
+> **This project is no longer maintained.** Please try the new project instead: **[kspatium](https://github.com/sakibreza279/kspatium)**
+
 **Knome Workspace Switcher** is a lightweight, GNOME-inspired virtual desktop switcher built specifically for **KDE Plasma 6**. It provides a clean, minimal interface to navigate your workspaces with support for dots, icons, desktop names, compact numbers, custom colors, animations, and mouse-wheel scrolling.
 
 ![Knome Workspace Switcher Preview](preview.png)
@@ -55,21 +58,21 @@ Or install via **Add Widgets > Get New Plugins > Install from File...** in Plasm
 
 ### From Source
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/sakibreza229/org.kde.plasma.knomeworkspaces.git
+```bash
+   git clone https://github.com/sakibreza279/org.kde.plasma.knomeworkspaces.git
    cd org.kde.plasma.knomeworkspaces
-   ```
+```
 
 2. Copy the plasmoid files to your Plasma plasmoids directory:
-   ```bash
+```bash
    mkdir -p ~/.local/share/plasma/plasmoids/org.kde.plasma.knomeworkspaces
    cp -r contents metadata.json ~/.local/share/plasma/plasmoids/org.kde.plasma.knomeworkspaces/
-   ```
+```
 
 3. Refresh the Plasma shell cache:
-   ```bash
+```bash
    kbuildsycoca6
-   ```
+```
 
 ## Requirements
 - KDE Plasma 6.0+
