@@ -48,25 +48,25 @@ Right-click the widget and select **"Configure Knome Workspace Switcher..."** to
 ### From .plasmoid Package
 Install using `kpackagetool6`:
 ```bash
-kpackagetool6 -t Plasma/Applet -i org.kde.plasma.knomeworkspaces-v2.3.plasmoid
+kpackagetool6 -t Plasma/Applet -i knome-workspaces-switcher.plasmoid
 ```
 To upgrade an existing installation:
 ```bash
-kpackagetool6 -t Plasma/Applet -u org.kde.plasma.knomeworkspaces-v2.3.plasmoid
+kpackagetool6 -t Plasma/Applet -u knome-workspaces-switcher-v2.3.plasmoid
 ```
 Or install via **Add Widgets > Get New Plugins > Install from File...** in Plasma.
 
 ### From Source
 1. Clone the repository:
 ```bash
-   git clone https://github.com/sakibreza279/org.kde.plasma.knomeworkspaces.git
-   cd org.kde.plasma.knomeworkspaces
+   git clone https://github.com/sakibreza279/knome-workspaces-switcher.git
+   cd knome-workspaces-switcher
 ```
 
 2. Copy the plasmoid files to your Plasma plasmoids directory:
 ```bash
-   mkdir -p ~/.local/share/plasma/plasmoids/org.kde.plasma.knomeworkspaces
-   cp -r contents metadata.json ~/.local/share/plasma/plasmoids/org.kde.plasma.knomeworkspaces/
+   mkdir -p ~/.local/share/plasma/plasmoids/knome-workspaces-switcher
+   cp -r contents metadata.json ~/.local/share/plasma/plasmoids/knome-workspaces-switcher/
 ```
 
 3. Refresh the Plasma shell cache:
