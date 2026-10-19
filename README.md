@@ -1,7 +1,7 @@
 # Knome Workspace Switcher — GNOME-style Virtual Desktop Switcher for Plasma 6
 
 > [!WARNING]
-> **This project is no longer maintained.** Please try the new project instead: **[kspatium](https://github.com/sakibreza279/kspatium)**
+> **This project is no longer maintained.** Please try the new project instead: **[kspatium](https://github.com/sakibreza229/kspatium)**
 
 **Knome Workspace Switcher** is a lightweight, GNOME-inspired virtual desktop switcher built specifically for **KDE Plasma 6**. It provides a clean, minimal interface to navigate your workspaces with support for dots, icons, desktop names, compact numbers, custom colors, animations, and mouse-wheel scrolling.
 
