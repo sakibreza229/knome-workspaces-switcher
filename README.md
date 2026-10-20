@@ -59,7 +59,7 @@ Or install via **Add Widgets > Get New Plugins > Install from File...** in Plasm
 ### From Source
 1. Clone the repository:
 ```bash
-   git clone https://github.com/sakibreza279/knome-workspaces-switcher.git
+   git clone https://github.com/sakibreza229/knome-workspaces-switcher.git
    cd knome-workspaces-switcher
 ```
 
