@@ -40,7 +40,7 @@ Examples of unacceptable behavior include:
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-**sakibreza279@gmail.com**.
+**github.com/sakibreza229**.
 All complaints will be reviewed and investigated promptly and fairly.
 
 For content posted on GitHub (issues, comments, discussions), you can also use
